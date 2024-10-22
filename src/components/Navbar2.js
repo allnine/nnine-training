@@ -154,6 +154,7 @@ const NavBar = () => {
                     Contact Us
                   </Link>
                 </li>
+
                 <li>
                   <Link href="/Popularcourses">
                     <button

@@ -5,9 +5,9 @@ import Link from "next/link";
 
 const Hero2 = () => {
   return (
-    <div className="bg-[#004AAD] h-auto flex  flex-col lg:flex-row ">
+    <div className="bg-[#004AAD] h-auto flex  flex-col lg:flex-row">
       <div className="bg-[#004AAD] ml-0 lg:ml-16 w-full lg:w-[1000px] flex flex-col justify-center p-5 lg:p-10 mt-2 lg:mt-32">
-        <h1 className="text-[#FFFFFF] text-5xl md:text-5xl lg:text-6xl font-semibold font-Quicksand mt-2">
+        <h1 className="text-[#FFFFFF] text-5xl md:text-5xl lg:text-6xl font-semibold font-Quicksand mt-24 lg:mt-9">
           Unlocking <span className="text-[#FFCF59] lg:text-6xl">your</span>
         </h1>
         <h1 className="text-[#FFCF59] text-5xl md:text-5xl lg:text-6xl font-semibold font-Quicksand mt-2">
